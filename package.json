@@ -1,0 +1,18 @@
+{
+  "name": "@abskmj/mongapi",
+  "version": "1.0.0",
+  "description": "A javascript client to call mongoose model apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abskmj@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abskmj/mongapi.git"
+  }
+}
